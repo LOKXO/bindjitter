@@ -1,4 +1,4 @@
-# CS2 Auto Key Presser
+# CS2 AKP (Or BindJitter)
 
 A powerful and customizable auto key presser designed specifically for Counter-Strike 2, featuring a user-friendly interface and advanced bind system.
 
